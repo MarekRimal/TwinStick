@@ -7,6 +7,7 @@ public class Sausage : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		print("You found sausage");
+		print("You found another sousage");
 	}
 	
 	// Update is called once per frame
